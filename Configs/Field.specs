@@ -1,0 +1,59 @@
+#<  telescope           U12
+#<  instrument          U12
+#<  filter              U12
+#<  scale               float64
+#<  seeing              float64
+#<  gain                float64
+#<  zero                float64
+#<  dzero               float64
+
+GALEX       GALEX       FUV         1.50     5.60   4400     18.82      0.21
+#GALEX       GALEX       FUV.1       1.50     5.60   4400     18.82      0.21
+#GALEX       GALEX       FUV.2       1.50     5.60   4400     18.82      0.21
+#GALEX       GALEX       FUV.3       1.50     5.60   4400     18.82      0.21
+#GALEX       GALEX       FUV.4       1.50     5.60   4400     18.82      0.21
+
+GALEX       GALEX       NUV         1.50     5.60   4800     20.08      0.21
+#GALEX       GALEX       NUV.1       1.50     5.60   4800     20.08      0.21
+#GALEX       GALEX       NUV.2       1.50     5.60   4800     20.08      0.21
+#GALEX       GALEX       NUV.3       1.50     5.60   4800     20.08      0.21
+#GALEX       GALEX       NUV.4       1.50     5.60   4800     20.08      0.21
+
+CFHT        MEGAPRIME   u           0.185    0.84   142969   30.00      0.03
+CFHT        MEGAPRIME   g           0.185    0.80   74723    30.00      0.02
+CFHT        MEGAPRIME   r           0.185    0.75   135875   30.00      0.02
+CFHT        MEGAPRIME   i           0.185    0.72   199665   30.00      0.02
+CFHT        MEGAPRIME   z           0.185    0.69   147628   30.00      0.02
+#CFHT        WIRCAM      Y           0.185    0.68   99176    30.00      0.03
+
+#SUBARU      SUBARU      B           0.15     0.95   37440    31.40      0.03    ##  SUBARU
+#SUBARU      SUBARU      V           0.15     1.33   28800    31.40      0.03    ##  d_zero
+#SUBARU      SUBARU      g           0.15     1.58   32760    31.40      0.03    ##  guessed
+#SUBARU      SUBARU      r           0.15     0.95   20880    31.40      0.03
+#SUBARU      SUBARU      i           0.15     1.05   27000    31.40      0.03
+#SUBARU      SUBARU      z           0.15     1.15   28880    31.40      0.03
+
+SUBARU      SUPRIME     IB427       0.15     1.64   2478     31.40      0.03    ##  SUBARU
+SUBARU      SUPRIME     IB464       0.15     1.89   2400     31.40      0.03    ##  d_zero
+SUBARU      SUPRIME     IB484       0.15     1.14   2202     31.40      0.03    ##  guessed
+SUBARU      SUPRIME     IB505       0.15     1.44   2160     31.40      0.03
+SUBARU      SUPRIME     IB527       0.15     1.60   2202     31.40      0.03
+SUBARU      SUPRIME     IB574       0.15     1.71   2736     31.40      0.03
+SUBARU      SUPRIME     IB624       0.15     1.05   2202     31.40      0.03
+SUBARU      SUPRIME     IB679       0.15     1.58   2478     31.40      0.03
+SUBARU      SUPRIME     IB709       0.15     1.58   2400     31.40      0.03
+SUBARU      SUPRIME     IB738       0.15     1.08   2220     31.40      0.03
+SUBARU      SUPRIME     IB767       0.15     1.65   2700     31.40      0.03
+SUBARU      SUPRIME     IB827       0.15     1.74   4320     31.40      0.03
+SUBARU      SUPRIME     NB711       0.15     0.79   2100     31.40      0.03
+SUBARU      SUPRIME     NB816       0.15     1.51   11262    31.40      0.03
+
+VISTA       VISTA       Y           0.15     0.83   190001   30.00      0.05
+VISTA       VISTA       J           0.15     0.79   120001   30.00      0.05
+VISTA       VISTA       H           0.15     0.76   100001   30.00      0.03
+VISTA       VISTA       Ks          0.15     0.75   290001   30.00      0.05
+
+SPITZER     IRAC        3.6um       0.60     1.74   2400     21.5814    0.05
+SPITZER     IRAC        4.5um       0.60     1.74   2400     21.5814    0.05
+SPITZER     IRAC        5.8um       0.60     1.74   2400     21.5814    0.04
+SPITZER     IRAC        8.0um       0.60     1.74   2400     21.5814    0.06
